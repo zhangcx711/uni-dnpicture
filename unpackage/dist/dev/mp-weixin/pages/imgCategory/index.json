@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "图片分类",
+  "usingComponents": {
+    "uni-segmented-control": "/node-modules/_@dcloudio_uni-ui@1.2.5@@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control"
+  }
+}
